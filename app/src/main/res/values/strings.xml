@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BookReviews</string>
+    <string name="action_settings">Settings</string>
+    <string name="Title">Get Highest Rated Title</string>
+    <string name="LowTitle">Get Lowest Rated Title</string>
+    <string name="RecordCount">Get Record Count</string>
+    <string name="RetriveTitle">Retrive Title with android 4</string>
+    <string name="prompt">Select Analytics...</string>
+
+    <string-array name="spinnerdetails">
+        <item>@string/prompt</item>
+        <item>@string/Title</item>
+        <item>@string/LowTitle</item>
+        <item>@string/RecordCount</item>
+        <item>@string/RetriveTitle</item>
+    </string-array>
+
+</resources>
